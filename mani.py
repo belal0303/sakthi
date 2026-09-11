@@ -1,11 +1,4 @@
-sdkjbvajcsbc
-
-
-
-
-
-
-
+print("Hello, World!")
 
 
 
